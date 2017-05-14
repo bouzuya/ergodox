@@ -11,3 +11,4 @@
 - v8 [kbvagv](http://configure.ergodox-ez.com/keyboard_layouts/kbvagv)
 - v9 [qpjxpy](http://configure.ergodox-ez.com/keyboard_layouts/qpjxpy)
 - v10 [kwamlx](http://configure.ergodox-ez.com/keyboard_layouts/kwamlx)
+- v11 [kjexpp](http://configure.ergodox-ez.com/keyboard_layouts/kjexpp)
