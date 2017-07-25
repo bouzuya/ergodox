@@ -13,3 +13,4 @@
 - v10 [kwamlx](http://configure.ergodox-ez.com/keyboard_layouts/kwamlx)
 - v11 [kjexpp](http://configure.ergodox-ez.com/keyboard_layouts/kjexpp)
 - v12 [kwambr](http://configure.ergodox-ez.com/keyboard_layouts/kwambr)
+- v13 [qwpxjv](http://configure.ergodox-ez.com/keyboard_layouts/qwpxjv)
