@@ -16,3 +16,4 @@
 - v13 [qwpxjv](http://configure.ergodox-ez.com/keyboard_layouts/qwpxjv)
 - v14 [qpezbn](http://configure.ergodox-ez.com/keyboard_layouts/qpezbn)
 - v15 [kognjv](http://configure.ergodox-ez.com/keyboard_layouts/kognjv)
+- v16 [kgbzwa](http://configure.ergodox-ez.com/keyboard_layouts/kgbzwa)
